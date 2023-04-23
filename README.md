@@ -9,4 +9,4 @@
 
 **How do I approach designing software?**
 
-> Answer
+> When designing software, I first look at the big picture and begin charting out the way the program will flow. I then break up these diagrams into smaller pieces until I have enough detail to build a functional, robust program. Following this approach helps me to stay organized, on topic, manage scope creep, and build all around better software.
